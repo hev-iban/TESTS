@@ -1,5 +1,11 @@
 .venv/
 __pycache__/
+<<<<<<< HEAD
 .pytest_cache/
 *.pyc
 EOF
+=======
+tests/__pycache__/
+.pytest_cache/
+*.pyc
+>>>>>>> section-5-tests
