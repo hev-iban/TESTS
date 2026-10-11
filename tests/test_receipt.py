@@ -34,7 +34,7 @@ def test_discount_pence__discounted():
 
 
 def test_format_pence_clean_case():
-    assert format_pence(800) == "8"
+    assert format_pence(800) == "8.00"
 
 def test_format_pence_digit_case():
     assert format_pence(850) == "8.50"
